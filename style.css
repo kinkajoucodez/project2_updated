@@ -1,0 +1,98 @@
+body {
+    background-image: url(https://wallpaperbat.com/img/556810-pretty-pink-iphone-7-plus-wallpaper-preppy-wallpaper-pink-wallpaper-iphone-pink-wallpaper-background-iphone-7-plus-wallpaper.jpg);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    font-weight: 600;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #b74a93, 0px 0px 10px #b74a93, 0px 0px 10px #b74a93,
+    0px 0px 20px #b74a93;
+}
+
+.hobby_pics img {
+    width: 350px;
+    height: 350px;
+}
+
+.book_pics img {
+    width: 300px;
+    height: 450px;
+}
+
+.food_pics img {
+    width: 350px;
+    height: 350px;
+}
+
+h3, p, h4, ul, a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: rgba(213, 27, 114, 0.854);
+    font-size: larger;
+}
+
+.homepage, .book_info, .hobby_info, .food_info {
+    background-color: white;
+    padding: 3px;
+    opacity: 90%;
+}
+
+img {
+    border: 5px solid white;
+}
+
+a:hover {
+    font-size: xx-large;
+    transition: font-size 1s;
+}
+
+img:hover {
+    border-color: rgba(0, 0, 0, 0.854);
+}
+
+iframe {
+    display: none;
+}
+
+.hobbies {
+    background-image: url(https://cdn.pixabay.com/photo/2022/02/05/17/23/yellow-background-6995406_960_720.jpg);
+}
+
+.hobby_title {
+    text-shadow: 0px 0px 5px #9a9000dd, 0px 0px 10px #9a9000dd, 0px 0px 10px #9a9000dd,
+    0px 0px 20px #9a9000dd;
+}
+
+.hobby_link {
+    color: #9a9000dd;
+}
+
+.books {
+    background-image: url(https://i.pinimg.com/736x/5d/73/82/5d738206367055cf62ff8303629cc6cd.jpg);
+}
+
+.book_title {
+    text-shadow: 0px 0px 5px #8d64a8, 0px 0px 10px #8d64a8, 0px 0px 10px #8d64a8,
+    0px 0px 20px #8d64a8;
+}
+
+.book_link {
+    color: #8d64a8;
+}
+
+.foods {
+    background-image: url(https://wallpaper.dog/large/20577287.jpg);
+}
+
+.food_title {
+    text-shadow: 0px 0px 5px #578ab7, 0px 0px 10px #578ab7, 0px 0px 10px #578ab7,
+    0px 0px 20px #578ab7;
+}
+
+.food_link {
+    color: #578ab7;
+}
